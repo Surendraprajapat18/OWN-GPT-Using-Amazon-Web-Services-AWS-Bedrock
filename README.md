@@ -1,0 +1,1 @@
+# OWN-GPT-Using-Amazon-Web-Services-AWS-Bedrock
