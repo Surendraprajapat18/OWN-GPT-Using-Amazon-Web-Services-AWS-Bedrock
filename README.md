@@ -61,7 +61,7 @@ This will open the web interface in your default browser.
 
 ## Demo Video
 
-Uploading GPTUsingBedrock - Made with Clipchamp.mp4…
+https://github.com/Surendraprajapat18/OWN-GPT-Using-Amazon-Web-Services-AWS-Bedrock/assets/97840357/b4bf5254-a99b-4ff1-ac9e-2e2bed86f1be
 
 
 ## Usage
